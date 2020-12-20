@@ -449,7 +449,7 @@ SLEEEP = function(xx){
     Sys.sleep(tt)
   }  
 }
-### WRITE STREAKS TRADED TO CSV
+### PRINT OUT to CONSOLE
 OUTPUT= function(OUT,IN,toOpen)
 {
   cat("\n\n",OUT-IN,"\nBEST MOMO STOCK:\n")
